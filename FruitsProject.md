@@ -1,6 +1,6 @@
 |Name of Fuit  | Quantity(kg)  | Date of Purchase  |  Price |
 |---|---|---|---|
-| Mango  | 200  |6/6/2023   |  130/- |
-|   |   |   |   |
+|  Mango  |  200  |6/6/2023   |  130/- |
+|  Orange |  100  | 6/6/2023  | 100/- |
 |   |   |   |   |
 |   |   |   |   |
